@@ -91,14 +91,23 @@ streamlit run app.py
 📁 Project Structure
 EEG_SCHIZOPHRENIA_PROJECT/
 │── assets/                  # Images / outputs
+
 │── app.py                   # Streamlit application
+
 │── main.py                  # Main ML pipeline
+
 │── convert_model.py         # Model conversion script
+
 │── requirements.txt         # Dependencies
+
 │── runtime.txt              # Runtime configuration
+
 │── schizophrenia_model.h5   # Trained CNN model
+
 │── test_samples.csv         # Sample test data
+
 │── Schizophrenia output.pdf # Project output/report
+
 │── README.md                # Documentation
 
 
